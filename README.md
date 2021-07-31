@@ -1,0 +1,2 @@
+# SpringBootConfigRepo
+Externalized configuration Properties
