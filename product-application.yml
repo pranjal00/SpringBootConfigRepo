@@ -12,3 +12,7 @@ spring:
     generate-ddl: true
     hibernate:
       ddl-auto: update
+      
+#simple props
+test:
+ checkConfig: It is working      
