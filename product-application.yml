@@ -14,5 +14,4 @@ spring:
       ddl-auto: update
       
 #simple props
-test:
- checkConfig: It is working      
+test.checkConfig: "IT is sample Value" 
